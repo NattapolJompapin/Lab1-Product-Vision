@@ -1,1 +1,15 @@
 # Lab1-Product-Vision
+
+## 👥 Team Members
+- Dike - Product Owner , Back End Developer
+- Big - Dev Lead,UX/UI Designer
+- Mak - Researcher,UX/UI Designer
+
+## 🎯 Product Vision Statement
+For university students
+who struggle to find study groups,
+**StudyMate**
+is a social-learning mobile app
+that automatically matches students with similar learning goals.
+Unlike Facebook groups,
+our product uses intelligent matching & collaboration tools.
