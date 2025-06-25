@@ -5,9 +5,9 @@ CopyEdit
 # CS66 - ทีม OVERTIME
 
 ## 👥 Team Members
-- Dike - Product Owner , Back End Developer
-- Big - Dev Lead,UX/UI Designer
-- Mak - Researcher,UX/UI Designer
+- Nattapol (Dike) - Product Owner , Back End Developer
+- Arnupab (Big) - Dev Lead,UX/UI Designer
+- Worayot (Max) - Researcher,UX/UI Designer
 
 ## 🎯 Product Vision Statement
 University of Phayao has implemented a Passenger Density Detection System on its campus shuttle buses. This intelligent system utilizes sensors and data analysis to monitor and report the number of passengers on board in real-time.
