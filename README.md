@@ -13,3 +13,7 @@ is a social-learning mobile app
 that automatically matches students with similar learning goals.
 Unlike Facebook groups,
 our product uses intelligent matching & collaboration tools.
+
+## 🔗 Repository Structure
+- `/docs` – project vision & planning docs
+- `/src` – project source code
